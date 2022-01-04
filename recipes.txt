@@ -6,5 +6,10 @@ Welcome to recipes
 ->Patato
 
 
+
 ->milk
 ->kheer
+
+->Tamoto
+->Ladyfinger
+->Carret
