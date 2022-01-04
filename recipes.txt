@@ -3,3 +3,4 @@ Welcome to recipes
 ->Palak
 ->Pasta
 ->Paneer
+->Patato
