@@ -5,6 +5,11 @@ Welcome to recipes
 ->Paneer
 ->Patato
 
+
+
+->milk
+->kheer
+
 ->Tamoto
 ->Ladyfinger
 ->Carret
