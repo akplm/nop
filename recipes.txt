@@ -2,3 +2,4 @@ Welcome to recipes
 
 ->Palak
 ->Pasta
+->Paneer
