@@ -4,3 +4,7 @@ Welcome to recipes
 ->Pasta
 ->Paneer
 ->Patato
+
+->Tamoto
+->Ladyfinger
+->Carret
